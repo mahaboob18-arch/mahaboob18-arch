@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mahaboob18-arch
+- 👋 Hi, I’m mahaboob
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on not yet decided!...
 - 📫 How to reach me by mail - mahaboobsubahani51@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Gaming fact: "Minecraft has sold over 200 million copies worldwide!"
+
 
 <!---
 mahaboob18-arch/mahaboob18-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
