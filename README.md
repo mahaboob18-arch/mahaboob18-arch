@@ -1,8 +1,8 @@
 - 👋 Hi, I’m mahaboob
-- 👀 I’m interested in technologies
+- 👀 I’m interested in technologies and inventions.
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on not yet decided!...
-- 📫 How to reach me by mail - mahaboobsubahani51@gmail.com
+- 📫 Reach me by mail - mahaboobsubahani51@gmail.com
 - ⚡ Gaming fact: "Minecraft has sold over 200 million copies worldwide!"
 
 
